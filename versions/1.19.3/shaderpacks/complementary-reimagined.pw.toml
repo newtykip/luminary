@@ -1,0 +1,13 @@
+name = "Complementary Reimagined"
+filename = "ComplementaryReimagined_r1.4.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HVnmMxH1/versions/Eur2NpSB/ComplementaryReimagined_r1.4.zip"
+hash-format = "sha512"
+hash = "25bae96a27e54c30e49ebdbed1fa23ed9ff60de01f7357a477332412fb162d6271f62f5fb8fa2e8f524ee79933c142a1f7033d4abba00d837322bb7a764be8c4"
+
+[update]
+[update.modrinth]
+mod-id = "HVnmMxH1"
+version = "Eur2NpSB"

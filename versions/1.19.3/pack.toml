@@ -1,0 +1,13 @@
+name = "Luminary"
+author = "newtykins"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9563e299097d8f40484b1df573a268d085fbaa499a3a6bf9fe78d00d22b16179"
+
+[versions]
+minecraft = "1.19.3"
+quilt = "0.18.1-beta.78"

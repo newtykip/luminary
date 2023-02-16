@@ -1,6 +1,6 @@
 # 🏳️‍🌈 Opinionated Queer License v1.1
 
-© Copyright newtykins
+© Copyright [newtykins](https://newty.dev/)
 
 ## Permissions
 
@@ -55,7 +55,7 @@ under any kind of legal claim as far as the law allows.
 
 ---
 
-# Fabulously Optimized License
+## Fabulously Optimized License
 
 Copyright 2020-2023 Fabulously Optimized Authors
 

@@ -1,2 +1,2 @@
 #!/bin/bash
-packwiz modrinth install $1
+packwiz mr install $1

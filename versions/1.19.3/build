@@ -1,0 +1,8 @@
+#!/bin/bash
+
+if [ ! -d out ]; then
+	mkdir out
+fi
+
+packwiz mr export --output out/Luminary-1.19.3-v1.0.mrpack
+packwiz cf export --output out/Luminary-1.19.3-v1.0.zip

@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "build"
+hash = "426e81bbac3e72ed8804d61b71eff7ffaae07f79feed937d2fae862ca4b74ade"
+
+[[files]]
 file = "config/citresewn.json"
 hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 
@@ -14,7 +18,7 @@ hash = "fc3eb10c2a236f6e31b732a8bf2c062f9770c77bd6754cefab84f041a376c8a3"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "fc60c8ba41537ad07e3f65c1530f919c6cf908d881c5583d1c6983cb2cca66a5"
+hash = "711483e72dfc4a2246e0b4f7173b5c3c4b5b1c8999b41aff55ba446ad78743d2"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -29,16 +33,32 @@ file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
+file = "config/yosbr/config/advancementplaques-common.toml"
+hash = "c6822b26381b5ef4bd295343c7277489eef9502ca68b1dc3d6710142dfc765d2"
+
+[[files]]
+file = "config/yosbr/config/appleskin.json5"
+hash = "ab1c8bb9300495527db39f502d4e761733037982752c324e2b248b1b68a31e49"
+
+[[files]]
 file = "config/yosbr/config/borderlessmining.json"
 hash = "1dfdc3360afe91b5804eef79f8b868f874e3dfc0c975495f8994f378ffe37a8f"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
-hash = "c88ac7aec7bc08f867f8a9f6c7bf9396871d03d12b0f4d7100e8ef1fddfac68e"
+hash = "064ee6957ddd92d5141df270af77cd58ffbfda13fcf059f16c3bc3805c6bffec"
 
 [[files]]
 file = "config/yosbr/config/cem.conf"
 hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
+
+[[files]]
+file = "config/yosbr/config/ding.conf"
+hash = "8e0a67738e72397427a7209a4ead43d3bdb2b50702c645c87428f1e1a134adb2"
+
+[[files]]
+file = "config/yosbr/config/dynamiccrosshair.json5"
+hash = "f5293e4c3f28d84a3bc4d27d454d844e8c3340ce2e860cb38c354c14d8115a18"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
@@ -70,7 +90,7 @@ hash = "5b83dbf79c2df634529371bb6fe139fadaf485710212080363a522f2f5983ca6"
 
 [[files]]
 file = "config/yosbr/config/midnightcontrols.json"
-hash = "b792f2977c2889e388d0a0e83e316ed4f27050729d86c8623e8472accb8a2a46"
+hash = "06ba1c6b50f52e7db2683c0b067bec00b4f0adb8361bc012adf6f967671b14e3"
 
 [[files]]
 file = "config/yosbr/config/midnightlib.json"
@@ -78,7 +98,7 @@ hash = "f7f7122784c7a6bcdb034e663fd756e16ffe69a668cb1b334e2be622f8c7bd55"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "b2d6f97d6f09d3c02504264a778ab1958378c91e5d743afed9ab71846073bf60"
+hash = "1a2921dc93cb13807ad28753e9dd424437a0cbb22c775317460f28b5cc10fae7"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -98,11 +118,11 @@ hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "193b9ea611fa490856a4e795a8d1a6a2a0cc4c9c78f62384d5cac0d90bbd2431"
+hash = "6869f29c521a6206086f8a14063a181b86cd6e4f5f360b436ba838d136a33640"
 
 [[files]]
 file = "mod"
-hash = "f4369da182859246477dd587ac9c06ec7a8ffa5a46a2be4aaa9442d7aafcb49d"
+hash = "74b58f2297aad7d004a6cf20e7d3d19dfcd1ebdeac5d8f922eb5e2f477ad19cd"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -125,8 +145,18 @@ hash = "2dc14d7d149dbdc02af2c9cc9c5786078876464c0ca9129f2818040bcff038a5"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "44747e64b28a91cfc1468e14dbb55ac960b4213a20f59fd4116bf817970c6422"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "3ff9bb7c715f248b800335b19f518952349f44032cc3681b77e1e3ab1997f585"
+metafile = true
+
+[[files]]
+file = "mods/beenfo.pw.toml"
+hash = "d993d09db7ef2c66dfbfc999e50a5b333b89d2745dd41e58aa06a28632f80f50"
 metafile = true
 
 [[files]]
@@ -170,8 +200,18 @@ hash = "06179e9261d5e2095d7496f29d1b67fa9e3767c92fcccb42eef0b007b4ae2b76"
 metafile = true
 
 [[files]]
+file = "mods/dark-loading-screen.pw.toml"
+hash = "ffcd22c001bb119abc9242031b3498c8bf2d43a4a0fa58458f8ca6167e205af7"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "c1fe42a53f1eaa61908e4de6dbe4f1293b72f7c2bb4ebe6f4b5fa0ec5253aaff"
+metafile = true
+
+[[files]]
+file = "mods/ding.pw.toml"
+hash = "81631822b2d51616a64bef9977a54d36b8111e4425793e95b33c64a33328005e"
 metafile = true
 
 [[files]]
@@ -192,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "96a32d3c2a7f972278de482b6963f8f92f1169a1e8e565ffa2faf5446c32cd6a"
+metafile = true
+
+[[files]]
+file = "mods/equipment-compare.pw.toml"
+hash = "d6f084d18f6686a7c781f9ace852fe710b0cc1bbe5071c56c99feb66462c92cb"
 metafile = true
 
 [[files]]
@@ -227,6 +272,16 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "141d7b9b7aacccafe753464bc0171b33e54b778fd40cf458ac2b3ac051329e8d"
+metafile = true
+
+[[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "b3d91f0ff7b201892f9edd440171f9e9743ef21a6011fbf2708e9b25109e42d0"
+metafile = true
+
+[[files]]
+file = "mods/gatekeep.pw.toml"
+hash = "c1fbfb1f22ed7eb9be56ce60bf0e9db51ce5c8c1ae23427ac27a8023e9d8ad51"
 metafile = true
 
 [[files]]
@@ -345,8 +400,8 @@ hash = "87e71b5daeb15cbe28c108fe2dae85a61997bd644f53affb69b77c314611dc0e"
 metafile = true
 
 [[files]]
-file = "mods/simple-discord-rpc.pw.toml"
-hash = "7bc329ba362e6b9bce089cc236b3ae8d049cb9f874310e5cf1591fa764e2cb54"
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "62038d09ca74b799438634d9f2bf9f1d676e2558a7a499b80bfaef5c614d2c61"
 metafile = true
 
 [[files]]
@@ -390,24 +445,9 @@ hash = "ae446098e5d170fa6266995de90837aeef42a357550ca1135a078eb12acf9536"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Chat Reporting Helper.zip"
-hash = "8bee916f3fc0877e6cc8d4c4bf633a64b4630936c16999b24ec80387a9ab9830"
+file = "resourcepacks/Fancy-GUI-Overhaul-v0.1.2.7.zip"
+hash = "afdf52d928cde3db836d2ec64ae36cd6051c86759f4e42ecd9459da306c21e1c"
 
 [[files]]
-file = "resourcepacks/Mod Menu Helper.zip"
-hash = "125d6c869a09bb5d215833248289dd572d66ce967961f5375aaa35caab24beac"
-
-[[files]]
-file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "23ebc1781c174cd64b653168e8969af0e2860dfe377adcb500dda7c128376bb3"
-metafile = true
-
-[[files]]
-file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "6be631680e2f923492b585e802a3b54b4cf60d125915b4708dc2acc8d7ad9125"
-metafile = true
-
-[[files]]
-file = "shaderpacks/complementary.pw.toml"
-hash = "5a3c2a02f7d2fe18b4e819ab0fa884d67953344f755d26cc833edd9ffeed6aaf"
-metafile = true
+file = "shaderpacks/ComplementaryReimagined_r1.4.zip"
+hash = "592c12605d03c345e15698d6020a892c865f56b3bcb117bcc9e41358f7df6584"

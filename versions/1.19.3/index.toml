@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "build"
-hash = "426e81bbac3e72ed8804d61b71eff7ffaae07f79feed937d2fae862ca4b74ade"
-
-[[files]]
 file = "config/citresewn.json"
 hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 
@@ -38,7 +34,7 @@ hash = "c6822b26381b5ef4bd295343c7277489eef9502ca68b1dc3d6710142dfc765d2"
 
 [[files]]
 file = "config/yosbr/config/appleskin.json5"
-hash = "ab1c8bb9300495527db39f502d4e761733037982752c324e2b248b1b68a31e49"
+hash = "1abe48b2a075477090810b4f58f33996f051fa393c8ca8bc26329904f1e9eef9"
 
 [[files]]
 file = "config/yosbr/config/borderlessmining.json"
@@ -46,7 +42,7 @@ hash = "1dfdc3360afe91b5804eef79f8b868f874e3dfc0c975495f8994f378ffe37a8f"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
-hash = "064ee6957ddd92d5141df270af77cd58ffbfda13fcf059f16c3bc3805c6bffec"
+hash = "6e8e3613149845c9e52159374c847c62524cf4b76ec6cdefa73a75ddc25d720f"
 
 [[files]]
 file = "config/yosbr/config/cem.conf"
@@ -54,11 +50,11 @@ hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
 
 [[files]]
 file = "config/yosbr/config/ding.conf"
-hash = "8e0a67738e72397427a7209a4ead43d3bdb2b50702c645c87428f1e1a134adb2"
+hash = "6b7d659ebfe3b60a2d608b4ce2a7248d9c36997a2f2f1e397f4a34462cb1e326"
 
 [[files]]
 file = "config/yosbr/config/dynamiccrosshair.json5"
-hash = "f5293e4c3f28d84a3bc4d27d454d844e8c3340ce2e860cb38c354c14d8115a18"
+hash = "370f6d76d35c4edb32d5317e32d551223edb612432b7a443f9725e1b21e2f712"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
@@ -71,6 +67,10 @@ hash = "eefa86fa9a8df6eda5d39d3bbbf53138a44df71a01a24262c27584badea97d79"
 [[files]]
 file = "config/yosbr/config/fastquit-config.txt"
 hash = "b04558e3aa16f01cb56278cbb0ae1a2a7c65b5288ee056865a07b2764a850f65"
+
+[[files]]
+file = "config/yosbr/config/gamma_utils.json5"
+hash = "fcefc501600558ce0d944b1eb9c3d8d624e5d33548948561321e26325c9b2ea4"
 
 [[files]]
 file = "config/yosbr/config/holdthatchunk.json"
@@ -98,7 +98,7 @@ hash = "f7f7122784c7a6bcdb034e663fd756e16ffe69a668cb1b334e2be622f8c7bd55"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "1a2921dc93cb13807ad28753e9dd424437a0cbb22c775317460f28b5cc10fae7"
+hash = "86e8a58ddc249ba4d6305c4e562039be2dcb0d497b2ea006c81026dac09aeb88"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -118,11 +118,7 @@ hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "6869f29c521a6206086f8a14063a181b86cd6e4f5f360b436ba838d136a33640"
-
-[[files]]
-file = "mod"
-hash = "74b58f2297aad7d004a6cf20e7d3d19dfcd1ebdeac5d8f922eb5e2f477ad19cd"
+hash = "5a515164ae82a5c68b4b3cfab387e2d20a609b6bf377e815242411a4575423c7"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -200,11 +196,6 @@ hash = "86498eb7f9326155844799dc57c1372fc5000b86f046994162cccd2e480a96ed"
 metafile = true
 
 [[files]]
-file = "mods/custom-entity-models-cem.pw.toml"
-hash = "06179e9261d5e2095d7496f29d1b67fa9e3767c92fcccb42eef0b007b4ae2b76"
-metafile = true
-
-[[files]]
 file = "mods/dark-loading-screen.pw.toml"
 hash = "ffcd22c001bb119abc9242031b3498c8bf2d43a4a0fa58458f8ca6167e205af7"
 metafile = true
@@ -227,11 +218,6 @@ metafile = true
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
 hash = "3533efecde54665c5b275476cca9d36732f791a33fadf39ad4800272728ac700"
-metafile = true
-
-[[files]]
-file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "769fdddb4e5e1bd61650522434e65bf6b5e3bb7fd77a9b922be91b22f0fb5fc0"
 metafile = true
 
 [[files]]
@@ -290,11 +276,6 @@ hash = "4c1b893d87c51588985c483fe33193ca03cf3673de998eef6eeb850d8928e7ab"
 metafile = true
 
 [[files]]
-file = "mods/ferritecore-fabric.pw.toml"
-hash = "7c8f7ad20a09bf335fa944530033377316da48d66b38c94d868b8c3484f15155"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "141d7b9b7aacccafe753464bc0171b33e54b778fd40cf458ac2b3ac051329e8d"
 metafile = true
@@ -322,11 +303,6 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "09d31307f81a06df5ab65ff57c2c830180bbc1138bb8326557172b0a883d6b8b"
-metafile = true
-
-[[files]]
-file = "mods/irisshaders.pw.toml"
-hash = "2dc4a40cc585c5380036cf5c9dcfa8d6463c8b0794b73950fe9b04b63cf642ea"
 metafile = true
 
 [[files]]
@@ -380,11 +356,6 @@ hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
-file = "mods/model-gap-fix.pw.toml"
-hash = "b5f1cc6a8284c142cc1a03396dc5f17f658e27613a46a646e8b0179859cc829e"
-metafile = true
-
-[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "bf69a7d3a8b2f983b937a166df751628caf13d6ff8f83afbcce8eb96c6615a6e"
 metafile = true
@@ -392,11 +363,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "1574ad326d2bc0e214c6494fdd010ef593801a37adcb019fcc0ad661f7c4889d"
-metafile = true
-
-[[files]]
-file = "mods/more-chat-history.pw.toml"
-hash = "6ba02ed36bd9c31c7585b3788ea70b8fbfd4027e8a4e05481e35bfb7470eaa46"
 metafile = true
 
 [[files]]
@@ -490,8 +456,16 @@ hash = "72214bf1c5210d1fd5d47f5fe354310ea7d7e1268eb48574c0655d6d4f4d5c42"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Chat Reporting Helper.zip"
+hash = "8bee916f3fc0877e6cc8d4c4bf633a64b4630936c16999b24ec80387a9ab9830"
+
+[[files]]
 file = "resourcepacks/Fancy-GUI-Overhaul-v0.1.2.7.zip"
 hash = "afdf52d928cde3db836d2ec64ae36cd6051c86759f4e42ecd9459da306c21e1c"
+
+[[files]]
+file = "resourcepacks/Mod Menu Helper.zip"
+hash = "125d6c869a09bb5d215833248289dd572d66ce967961f5375aaa35caab24beac"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r1.4.zip"

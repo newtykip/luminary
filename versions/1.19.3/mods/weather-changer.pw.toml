@@ -1,0 +1,13 @@
+name = "Weather Changer"
+filename = "weather-changer-0.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nhSHTGyl/versions/vlhCSd64/weather-changer-0.2.0.jar"
+hash-format = "sha1"
+hash = "a254a858cb4a7ddb4b59144ff8c23bc9add197f1"
+
+[update]
+[update.modrinth]
+mod-id = "nhSHTGyl"
+version = "vlhCSd64"

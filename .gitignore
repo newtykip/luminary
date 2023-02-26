@@ -1,7 +1,11 @@
 # Exclude exported CurseForge zip files
 *.zip
-!**/resourcepacks/*.zip
-!**/shaderpacks/*zip
 
 # Exclude exported Modrinth modpacks
 *.mrpack
+
+# Exclude output folders
+**/out/
+
+todo.md
+**/shaderpacks

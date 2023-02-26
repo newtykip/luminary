@@ -1,0 +1,13 @@
+name = "Shuffle"
+filename = "shuffle-5.0.1+1.19-quilt.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WUvGZLgB/versions/5.0.1-quilt/shuffle-5.0.1%2B1.19-quilt.jar"
+hash-format = "sha1"
+hash = "203fbe57298e8fdc6db9c51839fd222526eed69c"
+
+[update]
+[update.modrinth]
+mod-id = "WUvGZLgB"
+version = "KXc2ntPO"

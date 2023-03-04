@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "build"
+hash = "89995346cab2989b264bbd9aed984f7a9d25a0cdefcfbecc4555bde14cb0cc3f"
+
+[[files]]
 file = "config/citresewn.json"
 hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 

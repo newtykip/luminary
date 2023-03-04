@@ -17,18 +17,6 @@ file = "config/isxander-main-menu-credits.json"
 hash = "f84e1f29949e77d5473e1c11aa5b4d9cb02664f6567358d34059a8462dd102ea"
 
 [[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Client.json"
-hash = "5d4ebf1c83e189cc4b67a579f89fc473aded16d6487683dabafff261a944190f"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Common.json"
-hash = "c335cb5e65abce1bfc063eaddcff3eca759636e32ba7e4993ea249a31ab18816"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
-hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
-
-[[files]]
 file = "config/yosbr/config/advancementplaques-common.toml"
 hash = "0c793f556617be4084d6d66bc85c35a7b47415ee557c6594385bb55482feda5a"
 
@@ -162,6 +150,11 @@ hash = "296b4e7a1b7eee84117cc64362f27a981a820e9a39c9d8acae9937c0fca99da6"
 metafile = true
 
 [[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "631b4ee83e9ac2d8a093802784f71815bb5437fda4fd36b37eba8f7f0fe38bff"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "0167fe07b724c6017ee1efcc1fbce8931b8bed06e90bace22c399b8a13a49998"
 metafile = true
@@ -244,11 +237,6 @@ metafile = true
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "4d1d761b0905b18c127d3c5642230ea681f0c52bb5f24df1779b085345c013fa"
-metafile = true
-
-[[files]]
-file = "mods/fabrishot.pw.toml"
-hash = "df12767833f6d916dcb6f6b9a75da6a1cbc134600561bc5588c3f0cbca03c93b"
 metafile = true
 
 [[files]]
@@ -382,6 +370,11 @@ hash = "c91a0e5e41ca1131346bec3429a5b54dd46ca826a228620b52333de9184a864a"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "ad4a221b5135b6e4fe977e360a60b7df32b33951e510667027d5c3ee986659da"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "ad2b176582893c8e1fd3153c2273b228cd66dfae3287cf1e92b4989b1b8ba776"
 metafile = true
@@ -409,6 +402,16 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
+metafile = true
+
+[[files]]
+file = "mods/screencapper.pw.toml"
+hash = "2e6766b873e94322452409a32b71c088a523a851b9258ffd140865f45f75cfe6"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
 metafile = true
 
 [[files]]
@@ -480,15 +483,3 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "72214bf1c5210d1fd5d47f5fe354310ea7d7e1268eb48574c0655d6d4f4d5c42"
 metafile = true
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r1.4.zip"
-hash = "592c12605d03c345e15698d6020a892c865f56b3bcb117bcc9e41358f7df6584"
-
-[[files]]
-file = "shaderpacks/Sildur's+Vibrant+Shaders+v1.41+Extreme-VL.zip"
-hash = "87c7b4abfae7aef6feab191d0b40d6c1431f17d34e8cb8fad845e7535e8ebe7f"
-
-[[files]]
-file = "shaderpacks/Sildur's+Vibrant+Shaders+v1.41+Extreme-VL.zip.txt"
-hash = "636c3c7c5d8096d9e52472d9df6d13079f7f21592098238491a8a85bf3b20087"

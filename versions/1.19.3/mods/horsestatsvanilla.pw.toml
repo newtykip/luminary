@@ -1,0 +1,13 @@
+name = "Horse Stats Vanilla"
+filename = "horse-stats-vanilla-4.2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/l4qoXLzx/versions/oM0TwEzG/horse-stats-vanilla-4.2.2.jar"
+hash-format = "sha1"
+hash = "400bc9a26c778f0b97447890fad262c4758810a9"
+
+[update]
+[update.modrinth]
+mod-id = "l4qoXLzx"
+version = "oM0TwEzG"

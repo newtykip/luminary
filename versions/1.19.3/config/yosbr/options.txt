@@ -38,8 +38,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","file/Update Edition.zip","file/Axolotl Bucket Variants.zip"]
-incompatibleResourcePacks:["file/Balanced Music.zip"]
+resourcePacks:["vanilla","file/Update Edition.zip","file/Axolotl Bucket Variants.zip","file/Balanced Music.zip"]
 lang:en_gb
 soundDevice:""
 chatVisibility:0
@@ -175,6 +174,7 @@ key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.unknown
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
+key_key.visiblebarriers.bind:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.backslash
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown

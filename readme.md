@@ -23,7 +23,6 @@ Luminary is a modern modpack for 1.19.3 built on the [Quilt]() mod loader which 
 	- [GammaUtils]() - modify your gamma with ease. Enable it with the apostrophe key and use your Page Up/Page Down keys to modify the gamma increase, or just stick with the default of 1500% - it is up to you.
 	- [Fabrishot]() - take beautiful, 4k screenshots of your build by pressing F9.
 	- [ShulkerBoxTooltip]() - view the contents of shulker boxes from your inventory by holding the shift key.
-	- [Slot Swap]() - hold alt and use your scrollwheel to quickly swap your hotbar slot with one from your inventory.
 	- [Shuffle]() - shuffle through blocks in your hotbar by pressing the Z	key and placing blocks, perfect for building!
 
 And we manage all of this without sacrificing performance. In fact, we enhance it*! We do this by bundling plenty of optimisations, such as:

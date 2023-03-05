@@ -1,0 +1,13 @@
+name = "Clean F3"
+filename = "CleanF3-0.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5lvjfaRs/versions/wWtTbJTn/CleanF3-0.2.1.jar"
+hash-format = "sha1"
+hash = "31a97eab56acd0f4401d795541ef462a5480161c"
+
+[update]
+[update.modrinth]
+mod-id = "5lvjfaRs"
+version = "wWtTbJTn"

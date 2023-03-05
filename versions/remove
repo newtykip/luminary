@@ -2,4 +2,4 @@
 
 pushd $1 > /dev/null
 rm mods/$2.pw.toml
-packwiz refresh
+packwiz refresh > /dev/null

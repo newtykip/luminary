@@ -14,7 +14,7 @@ hash = "fc3eb10c2a236f6e31b732a8bf2c062f9770c77bd6754cefab84f041a376c8a3"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d8a0fe5ebf3379a8976d93459b484380d5abe990c33d360cb4667ac9baf90aa1"
+hash = "71279627543f1e5f952f5fe333cfa9cf8998c60b20eaf611aedc3eb0c8f7152f"
 
 [[files]]
 file = "config/yosbr/config/advancementplaques-common.toml"
@@ -78,7 +78,7 @@ hash = "f7f7122784c7a6bcdb034e663fd756e16ffe69a668cb1b334e2be622f8c7bd55"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "759130e6eefe035a2765fbbd0b9aa644c21c89d837c9d9455191b39748bc03ed"
+hash = "cb3756c10a6649cf9f0ccd2c121faee9e007a2d9cd82db60570d5e7aa546a377"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -94,7 +94,7 @@ hash = "dd6f94bc9b0002d8db083a1f7a4238fd93489046f3084b03ce92338ab5a65b00"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "515e7313fe5d74f08c6b8b163c14861a30b747fed751bbecff8c2578e6ce9f8c"
+hash = "8952f484bb0825f7321448b0ac6bdfc6a5812dc901d22eff8d3e4013ba4e7b8f"
 
 [[files]]
 file = "journeymap/config/5.9/journeymap.minimap.config"
@@ -132,6 +132,11 @@ metafile = true
 [[files]]
 file = "mods/badpackets.pw.toml"
 hash = "3ff9bb7c715f248b800335b19f518952349f44032cc3681b77e1e3ab1997f585"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "8a9e9131ccb6a52f4180e805b59839b437293b10db3566da811fff08900d465d"
 metafile = true
 
 [[files]]
@@ -185,8 +190,23 @@ hash = "fd235eacb6d28aae0ebdfa0de95ac33e4f1a6ec67e16fe8074153665b3b0f55a"
 metafile = true
 
 [[files]]
+file = "mods/clean-f3.pw.toml"
+hash = "b66ccb4ff2d0a30d0453e94dac520df3bf73d40d346ba0223550a5faad961b5c"
+metafile = true
+
+[[files]]
+file = "mods/cleardespawn.pw.toml"
+hash = "f55726e64eabcfdcb0b02657c74889f8e135a5424dc423c55450117618a2ad11"
+metafile = true
+
+[[files]]
 file = "mods/clickthrough.pw.toml"
 hash = "6bbd79d6ae379bd1aae1527e5a41b3d56166c5d66e2d14a6e43be20dcee0ae5f"
+metafile = true
+
+[[files]]
+file = "mods/client-tweaks.pw.toml"
+hash = "e4a5178c183daea78786fb5dac3b3bb9a7c97cd9c627f7cfc9d5cf8ac987a175"
 metafile = true
 
 [[files]]
@@ -197,6 +217,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "1052774d91be4762cb40cd8aa5122bf8cfdc14cfe00439afb9a642e17e612d5e"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "11e6b2d89e9eb7b56fb2a7fafcfadb0c4057382a63f8f84788af606314d4a2a1"
 metafile = true
 
 [[files]]
@@ -212,6 +237,11 @@ metafile = true
 [[files]]
 file = "mods/ding.pw.toml"
 hash = "81631822b2d51616a64bef9977a54d36b8111e4425793e95b33c64a33328005e"
+metafile = true
+
+[[files]]
+file = "mods/draggable-resource-packs.pw.toml"
+hash = "6e94a2241d03fff4d1eef01a82f161f741a76bc61d02ead1dcfeda76e84a815b"
 metafile = true
 
 [[files]]
@@ -272,6 +302,11 @@ metafile = true
 [[files]]
 file = "mods/gatekeep.pw.toml"
 hash = "c1fbfb1f22ed7eb9be56ce60bf0e9db51ce5c8c1ae23427ac27a8023e9d8ad51"
+metafile = true
+
+[[files]]
+file = "mods/horsestatsvanilla.pw.toml"
+hash = "8d28ebd4222ecece6888e3089bcaf836792be6772714962cf7fb3c85e0cfaba9"
 metafile = true
 
 [[files]]
@@ -380,6 +415,11 @@ hash = "c91a0e5e41ca1131346bec3429a5b54dd46ca826a228620b52333de9184a864a"
 metafile = true
 
 [[files]]
+file = "mods/no-resource-pack-warnings.pw.toml"
+hash = "130550012d1bb91595fd441bc1214d28ddb1916d045dfca3875ca422fbd27b92"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "ad4a221b5135b6e4fe977e360a60b7df32b33951e510667027d5c3ee986659da"
 metafile = true
@@ -387,6 +427,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "f48e853d0747d737b10204720db55eb81fb94fe9acc7a0b12173c219cbe7c624"
+metafile = true
+
+[[files]]
+file = "mods/preciseblockplacing.pw.toml"
+hash = "e1cdd209be1e56faff4311873437199bd179a9c6778918ab1ddd7fdee537fd60"
 metafile = true
 
 [[files]]
@@ -440,18 +485,13 @@ hash = "d4162ef05615cc55b2b991d0f5183efcf76e6d75be8eef93ebe2a3c8a584dd49"
 metafile = true
 
 [[files]]
-file = "mods/slot-swap.pw.toml"
-hash = "6f62712e975ed53165466b403718a7d3cdb1b0192a800020fce71f34f229e673"
-metafile = true
-
-[[files]]
-file = "mods/smoothboot-fabric.pw.toml"
-hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "c8fd86f94fb1bc7def8fc00b4d0722992356c85ad574ce60f1c2c123750c2785"
+metafile = true
+
+[[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "2f175e539c7cb0f843e13e3a8b495d8d3b01ef623a7dd8c8b8c50eec9c3aed6e"
 metafile = true
 
 [[files]]
@@ -462,6 +502,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/statuseffecttimer.pw.toml"
+hash = "26b3e4ca90196024b0cdc02fb3591af480e03bde037ffb3e800499dc2c45167e"
 metafile = true
 
 [[files]]

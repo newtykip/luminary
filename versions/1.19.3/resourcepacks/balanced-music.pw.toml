@@ -1,0 +1,12 @@
+name = "Balanced Music"
+filename = "Balanced Music.zip"
+
+[download]
+url = "https://cdn.modrinth.com/data/CWBlLg2t/versions/d7xT5EqH/Balanced-Music.zip"
+hash-format = "sha1"
+hash = "05daefbfc1106bb7d93e0c003d82a15c117a53b9"
+
+[update]
+[update.modrinth]
+mod-id = "CWBlLg2t"
+version = "d7xT5EqH"

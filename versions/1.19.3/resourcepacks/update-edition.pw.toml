@@ -1,0 +1,12 @@
+name = "Update Edition"
+filename = "Update Edition.zip"
+
+[download]
+url = "https://cdn.modrinth.com/data/2OpJ6qTh/versions/hCxB55Ur/TheWildUpdate.zip"
+hash-format = "sha1"
+hash = "c7351bbe69c6c904c46082fa21c98aae65bbb296"
+
+[update]
+[update.modrinth]
+mod-id = "2OpJ6qTh"
+version = "hCxB55Ur"

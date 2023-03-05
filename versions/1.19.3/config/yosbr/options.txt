@@ -1,5 +1,4 @@
 version:3218
-quilt_available_resource_packs:["midnightcontrols/bedrock","programmer_art","vanilla"]
 autoJump:false
 operatorItemsTab:true
 autoSuggestions:true
@@ -39,7 +38,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla"]
+resourcePacks:["vanilla","file/Update Edition.zip","file/Axolotl Bucket Variants.zip"]
+incompatibleResourcePacks:["file/Balanced Music.zip"]
 lang:en_gb
 soundDevice:""
 chatVisibility:0

@@ -1,16 +1,16 @@
 name = "Luminary"
 author = "newtykins"
-version = "1.0.0-pre1"
+version = "1.0.0-pre2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "937de19e5eff27088b7e3b62cba1fdf28fcaa8e7dca07f14f79d33fc8fd74b76"
+hash = "099569601c36dc441faaac2789f38bc56f3ee6e27cc4703bb6c6ae9eb7580033"
 
 [versions]
 minecraft = "1.19.3"
-quilt = "0.18.2"
+quilt = "0.18.3"
 
 [options]
 acceptable-game-versions = ["1.19", "1.19.1", "1.19.2"]

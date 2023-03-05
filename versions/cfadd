@@ -1,0 +1,4 @@
+#!/bin/bash
+
+pushd $1 > /dev/null
+packwiz cf install $2

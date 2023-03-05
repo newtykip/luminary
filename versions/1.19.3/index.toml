@@ -430,11 +430,6 @@ hash = "f48e853d0747d737b10204720db55eb81fb94fe9acc7a0b12173c219cbe7c624"
 metafile = true
 
 [[files]]
-file = "mods/preciseblockplacing.pw.toml"
-hash = "e1cdd209be1e56faff4311873437199bd179a9c6778918ab1ddd7fdee537fd60"
-metafile = true
-
-[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "9f099a192392ee51ed679dad76f74806cf1c2fa8c8a37ae015f22c208cfa8236"
 metafile = true

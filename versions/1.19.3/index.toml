@@ -94,7 +94,7 @@ hash = "dd6f94bc9b0002d8db083a1f7a4238fd93489046f3084b03ce92338ab5a65b00"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "a09634e14b5ef83bd019504ef2a2a36de00a831786d3a578540fb8ba6b2d5b43"
+hash = "515e7313fe5d74f08c6b8b163c14861a30b747fed751bbecff8c2578e6ce9f8c"
 
 [[files]]
 file = "journeymap/config/5.9/journeymap.minimap.config"

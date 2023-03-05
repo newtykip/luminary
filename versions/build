@@ -19,4 +19,5 @@ mkdir $out/auto
 cp $(pwd)/../../prism/{.,}* $out/auto 2> /dev/null
 cp $(pwd)/../../prism/$1/{.,}* $out/auto 2> /dev/null
 zip $out/Luminary-$1.zip $out/auto/*
-rm -rf $out/auto
+sed -i "s/PreLaunchCommand=/PreLaunchCommand=\"\$INST_JAVA\" -jar \"\$INST_DIR\/packwiz-installer-bootstrap.jar\" https:\/\/raw.githubusercontent.com\/newtykins\/luminary\/main\/versions\/$1\/pack.toml/g" $out/auto/instance.cfg
+# rm -rf $out/auto

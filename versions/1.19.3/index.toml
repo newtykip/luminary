@@ -461,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/screenshot-viewer.pw.toml"
-hash = "20ca7a498fd3b05c6a9d8311d94b73996e375b27530ab9e60564f4b0123c6365"
+hash = "2f8c3c0a58c47417f33e1a245ee5d2024f539e35fb21ccb35de3186e0d424bb7"
 metafile = true
 
 [[files]]
